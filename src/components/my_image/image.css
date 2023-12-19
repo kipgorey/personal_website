@@ -1,0 +1,13 @@
+/* CSS styles for your image */
+.img {
+    max-width: 25%; /* Ensure the image doesn't exceed its natural size */
+    height: auto; /* Maintain the aspect ratio */
+    border-radius: 50%;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    clip-path:circle();
+}
