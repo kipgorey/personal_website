@@ -33,7 +33,7 @@ function HomePage() {
                     Email - cgorey@usc.edu
                 </p>
                 <p className = "contact-info-p">
-                    Phone Number - (650)-422-9294
+                    Phone Number  (650)-422-9294
                 </p>
 
                 <div className = "email-container">
