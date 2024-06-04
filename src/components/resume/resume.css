@@ -1,9 +1,18 @@
+/* src/resume.css */
 
-
+.homepage {
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    background-size: 3em 3em;
+    background-color: #ffffff;
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.95
+}
 
 .page-title {
     text-align: center;
     padding-top: 60px;
+    color: #fff;
 
 }
 

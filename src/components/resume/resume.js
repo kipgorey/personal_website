@@ -2,12 +2,15 @@ import React from 'react';
 import Navbar from "../navbar/navbar";
 import './resume.css';
 import PDFViewer from "../PDF/pdfViewer";
-
+import BackgroundPage from "../Background/background";
 
 function Resume() {
     return (
-        <div className="home-page">
+        <>
+
+        <div className="homepage">
             <Navbar/>
+
 
             <h1 className = "page-title"> Resume </h1>
 
@@ -15,6 +18,7 @@ function Resume() {
                 <button className="button-77" role="button"> Go to Tiny Url Resume </button>
             </a>
         </div>
+        </>
     );
 }
 
